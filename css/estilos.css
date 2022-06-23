@@ -1,0 +1,17 @@
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: azure;
+}
+
+h2, h3, p, ul {
+    text-align: left;
+}
+
+h1 {
+    font-size: 40px;
+    text-decoration: underline;
+    background-color: aquamarine;
+}
+
